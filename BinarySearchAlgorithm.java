@@ -2,7 +2,6 @@ class BinarySearchAlgorithm{
     public static void main(String[] args){
         
         int arr[] = { 2, 3, 4, 10, 40 };
-        int n = arr.length;
         int x = 10;
         int result = obinarySearchb(arr, x);
         if (result == -1)
